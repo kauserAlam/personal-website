@@ -1,0 +1,71 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.Name-highlight{
+    color: hsl(340, 88%, 50%);
+}
+h1{
+    color: hsl(350, 93%, 60%);
+}
+    
+.header-banner{
+    background-image: url("personal-website/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.dream-banner{
+    background-image: url("personal-website/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+section{
+    height: 750px;
+    padding: 100px;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: indianred;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.work-banner{
+    background-image: url("personal-website/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.lastest-images{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.lastest-images img{
+    width: 100%;
+    
+}
+.work-banner h1{
+    font-size: 50px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+
+}
+footer{
+    text-align: center;
+}
